@@ -1,0 +1,12 @@
+# Flower Classification Web App
+
+This is a web application for classifying images of flowers using Streamlit and TensorFlow.
+
+## Requirements
+
+- Python 3.x
+- Streamlit
+- TensorFlow
+- Pillow
+- Numpy
+- PIL
